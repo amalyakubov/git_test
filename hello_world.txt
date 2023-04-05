@@ -1,0 +1,4 @@
+Hello Everyone! 
+This is my first GitHub repository, which also mean that I am using GitHub for the first time in my life.
+This website looks very promising and I've heard many good things about it. 
+I am very eager to try out the functionality of the website and improve my skillset in order to advance my web development journey.
